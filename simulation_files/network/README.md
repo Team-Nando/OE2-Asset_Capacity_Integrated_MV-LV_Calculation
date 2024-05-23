@@ -1,1 +1,1 @@
-Network files are only used for performance check.
+Note that network files are only used for performance check.
