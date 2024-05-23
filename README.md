@@ -1,4 +1,4 @@
-# Assessment of Intergrated HV-LV OE Calculations to Orchestrate DERs - OE Algorithm 2: Asset Capacity
+# Assessment of Integrated HV-LV OE Calculations to Orchestrate DERs - OE Algorithm 2: Asset Capacity
 
 This repository is part of the project [Accelerating the Implementation of Operating Envelopes Across Australia](https://electrical.eng.unimelb.edu.au/power-energy/projects/accelerating-the-implementation-of-operating-envelopes-across-australia) funded by CSIRO. This project provided key metrics, recommendations, and guidance for distribution companies (known as Distribution Network Service Providers [DNSPs] in Australia) and AEMO (the Australian system operator) to assist them in improving and, hence, accelerating the use of Operating Envelopes (OEs) across Australia.
 
