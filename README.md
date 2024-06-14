@@ -38,7 +38,7 @@ We acknowledge AusNet Services for providing the data listed below, which was es
 - Anonymised historical active power demand of some customers (smart meter data)
 - The data (i.e., topology, impedances, distribution transformers) of one of their MV feeders (indirectly used by this repository)
 
-More details of this data can be found in the [Team Nando GitHub repository for Australian MV-LV Networks](https://github.com/Team-Nando/MV-LV-Networks)
+More details of this data can be found in the [Team Nando GitHub repository for Australian MV-LV Networks](https://github.com/Team-Nando/MV-LV-Networks), files named "Network_4_Urban_CRE21" and "Profiles".
 
 We also acknowledge the Australian Bureau of Meteorology for providing the solar radiation data.
 
