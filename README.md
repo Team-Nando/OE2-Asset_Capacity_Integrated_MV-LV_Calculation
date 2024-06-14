@@ -29,11 +29,16 @@ Make sure you have installed all the pre-requisites (Anaconda, dss_python, requi
 All the instructions will be in the **`ipynb`** file.
 
 ## Credits
-
 Arthur Gonçalves Givisiez (a.goncalvesgivisiez@unimelb.edu.au)
-
 Nando Ochoa (luis.ochoa@unimelb.edu.au ; https://sites.google.com/view/luisfochoa)
 
-## Licenses
+## Acknowledgements
+We acknowledge AusNet Services for providing the data listed below, which was essential to create this repository.
+- Anonymised historical active power demand of some customers (smart meter data)
+- The data (i.e., topology, impedances, distribution transformers) of one of their MV feeders (indirectly used by this repository)
 
+More details of this data can be found in the [Team Nando GitHub repository for Australian MV-LV Networks](https://github.com/Team-Nando/MV-LV-Networks)
+We also acknowledge the Australian Bureau of Meteorology for providing the solar radiation data.
+
+## Licenses
 Since this repository uses dss_python which is based on OpenDSS, both licenses have been included. This repository uses the BSD 3-Clause "New" or "Revised" license. Check all corresponding files (`LICENSE-OpenDSS`, `LICENSE-dss_python`, `LICENSE`).
