@@ -30,6 +30,7 @@ All the instructions will be in the **`ipynb`** file.
 
 ## Credits
 Arthur Gonçalves Givisiez (a.goncalvesgivisiez@unimelb.edu.au)
+
 Nando Ochoa (luis.ochoa@unimelb.edu.au ; https://sites.google.com/view/luisfochoa)
 
 ## Acknowledgements
@@ -38,6 +39,7 @@ We acknowledge AusNet Services for providing the data listed below, which was es
 - The data (i.e., topology, impedances, distribution transformers) of one of their MV feeders (indirectly used by this repository)
 
 More details of this data can be found in the [Team Nando GitHub repository for Australian MV-LV Networks](https://github.com/Team-Nando/MV-LV-Networks)
+
 We also acknowledge the Australian Bureau of Meteorology for providing the solar radiation data.
 
 ## Licenses
