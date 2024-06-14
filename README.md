@@ -1,12 +1,12 @@
-# Assessment of Integrated HV-LV OE Calculations to Orchestrate DERs - OE Algorithm 2: Asset Capacity
+# Assessment of Integrated MV-LV OE Calculations to Orchestrate DERs - OE Algorithm 2: Asset Capacity
 
 This repository is part of the project [Accelerating the Implementation of Operating Envelopes Across Australia](https://electrical.eng.unimelb.edu.au/power-energy/projects/accelerating-the-implementation-of-operating-envelopes-across-australia) funded by CSIRO. This project provided key metrics, recommendations, and guidance for distribution companies (known as Distribution Network Service Providers [DNSPs] in Australia) and AEMO (the Australian system operator) to assist them in improving and, hence, accelerating the use of Operating Envelopes (OEs) across Australia.
 
-In this repository, we use interactive code via Jupyter Notebook and Python as well as a [realistic integrated high voltage and low voltage (HV-LV) network](https://github.com/Team-Nando/MV-LV-Networks) to demonstrate the process and necessary calculations for the *Asset Capacity OE Algorithm with Integrated HV-LV Calculation* produced by The University of Melbourne. This demonstration is useful for different stakeholders (e.g., DNSPs, AEMO, CSIRO, regulators, consultancy companies, technology providers) as it can help them familiarise with the corresponding algorithm and the required inputs as well as the pros and cons.
+In this repository, we use interactive code via Jupyter Notebook and Python as well as a [realistic integrated medium voltage and low voltage (MV-LV) network](https://github.com/Team-Nando/MV-LV-Networks) to demonstrate the process and necessary calculations for the *Asset Capacity OE Algorithm with Integrated MV-LV Calculation* produced by The University of Melbourne. This demonstration is useful for different stakeholders (e.g., DNSPs, AEMO, CSIRO, regulators, consultancy companies, technology providers) as it can help them familiarise with the corresponding algorithm and the required inputs as well as the pros and cons.
 
-## Asset Capacity OE with Integrated HV-LV Calculation
-The Asset Capacity OE with Integrated HV-LV Calculation is the least advanced and, hence, the least accurate OE approach investigated in the project. However, its implementation is very simple since it needs very limited monitoring and no network model – it only needs the monitoring of few locations of the integrated HV-LV network (HV and LV HoFs), the capacity of few elements (distribution transformers as well as HV and LV HoFs), and an estimation of the aggregated net demand of flexible customers of each LV network. Nevertheless, by design, this approach does not solve voltage problems.
-- Required Monitoring: At HV and LV head of feeders (P, Q, and V, all per phase).
+## Asset Capacity OE with Integrated MV-LV Calculation
+The Asset Capacity OE with Integrated MV-LV Calculation is the least advanced and, hence, the least accurate OE approach investigated in the project. However, its implementation is very simple since it needs very limited monitoring and no network model – it only needs the monitoring of few locations of the integrated MV-LV network (MV and LV HoFs), the capacity of few elements (distribution transformers as well as MV and LV HoFs), and an estimation of the aggregated net demand of flexible customers of each LV network. Nevertheless, by design, this approach does not solve voltage problems.
+- Required Monitoring: At MV and LV head of feeders (P, Q, and V, all per phase).
 - Required Electrical Models: None.
 
 ## Pre-Requisites
